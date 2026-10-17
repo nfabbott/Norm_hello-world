@@ -5,7 +5,7 @@ today 2026-10-16 I added this third line to my repository 'Norm_hello-world'
 */
 <html> 
     <head>
-        <title>Norm first HTML Page</title>
+        <title>Norm first GitHub HTML Page</title>
     <link rel="stylesheet" href="style.css">
 </head>
     </head>
