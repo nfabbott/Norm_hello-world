@@ -13,5 +13,6 @@ today 2026-10-16 I added this third line to my repository 'Norm_hello-world'
         <h2>Welcome to Norm's first HTML Page</h2>
         <h3>located in VSCode
         <p>This is a simple paragraph.</p>
+        <p>I added  this HTML program on 2026-10-16 </p>    
     </body>
 </html>
