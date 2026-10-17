@@ -8,8 +8,8 @@
     <!-- <link rel="file" href="C:/Users/Admin/Desktop/Norm_HTML/biography.html"> -->
 </head>
 <body>    
-  <h2>Welcome to Norm's first GitHub HTML Page</h2>
-  <p>This is a simple paragraph.</p>
+  <h2>Welcome to Norm's first GitHub HTML Page</h 2>
+  <p>Added xxxxxxxx.html via upload to this repository?</p>
   <p><B><I> added  this HTML program on 2026-10-16 </p></I></B> 
   <p>type 'E' to edit repositery</p> 
   <p><b>Repository = 'Norm_hello-world'</b></p>
