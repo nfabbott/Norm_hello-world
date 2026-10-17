@@ -9,7 +9,7 @@
 </head>
 <body>    
   <h2>Welcome to Norm's first GitHub HTML Page</h 2>
-  <p>Added xxxxxxxx.html via upload to this repository?</p>
+  <p>Added first-html.html via upload to this repository?</p>
   <p><B><I> added  this HTML program on 2026-10-16 </p></I></B> 
   <p>type 'E' to edit repositery</p> 
   <p><b>Repository = 'Norm_hello-world'</b></p>
