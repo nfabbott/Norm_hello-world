@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Norm first GitHub HTML Page</title>
     <!--<link rel="stylesheet" href="style.css"> -->
-    <link rel="file:///C:/Users/Admin/Desktop/Norm_HTML/biography.html">
+    <link rel="file:/C:/Users/Admin/Desktop/Norm_HTML/biography.html">
 </head>
 <body>    
   <h2>Welcome to Norm's first GitHub HTML Page</h2>
