@@ -2,7 +2,7 @@
 3rd try at this hello-world
 
 today 2026-10-16 I added this third line to my repository 'Norm_hello-world'
-*
+*/
     <head>
         <title>Norm first GitHub HTML Page</title>
     <link rel="stylesheet" href="style.css">
