@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en"
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Norm first GitHub HTML Page</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -11,8 +13,7 @@
   <p>type 'E' to edit repositery</p> 
   <p># Norm_hello-world
   <p> Why is this in Read.me?</p>
-  3rd try at this hello-world
-
-  today 2026-10-16 I added this third line to my repository 'Norm_hello-world'</p>
+  -3rd try at this hello-world
+  -today 2026-10-16 I added this third line to my repository 'Norm_hello-world'</p>
 </body>
 </html>
